@@ -3,13 +3,13 @@
 This repository collects selected projects completed during the Master’s program in Data Science and Business Analytics at the University of Warsaw. Each project applies data science and machine learning techniques to real-world datasets, covering a wide range of analytical and computational methods.
 
 # Projects 
-1. [github.com/julia-martyniuk/perfume_scraping]
+1. [https://github.com/julia-martyniuk/perfume_scraping]
 Web scraping project focused on women’s fragrances. Built dataset with Selenium, analyzed pricing patterns and fragrance attributes.
-2. [github.com/julia-martyniuk/apartment_price_regression]
+2. [https://github.com/julia-martyniuk/apartment_price_regression] 
 Machine Learning project applying multiple algorithms to model and predict apartment prices. Includes data preprocessing, feature engineering, model evaluation, and comparison.
-3. [github.com/julia-martyniuk/personal_scheduler]
+3. [https://github.com/julia-martyniuk/personal_scheduler]
 Group project completed by Yuliya Martyniuk, Zahra Eshtiaghi and Tseeltuul Erdenebat. Personal Scheduler is a Shiny web application designed to help students (and others) manage deadlines and monitor academic workload over time.
-4. [rpubs.com/Yuliya_Martyniuk/1340798]
+4. [https://rpubs.com/Yuliya_Martyniuk/1340798]
 This research evaluates the effectiveness and consistency of three clustering evaluation metrics by applying them to images with distinct visual and structural properties — a complex mural, a photo of pierogi, and a Baltic Sea view — and analyzing both metric results and visual segmentations to identify performance patterns and conditions favoring specific methods.
 5. [https://rpubs.com/Yuliya_Martyniuk/1341142]
 This task involves clustering Uber trip data by location, analyzing cluster centers over time and date.
