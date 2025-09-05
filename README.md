@@ -8,7 +8,7 @@ Web scraping project focused on women’s fragrances. Built dataset with Seleniu
 2. [Predicting apartment prices](https://github.com/julia-martyniuk/apartment_price_regression) 
 Machine Learning project applying multiple algorithms to model and predict apartment prices. Includes data preprocessing, feature engineering, model evaluation, and comparison.
 3. [Personal Scheduler](https://github.com/julia-martyniuk/personal_scheduler)
-Group project completed by Yuliya Martyniuk, Zahra Eshtiaghi and Tseeltuul Erdenebat. Personal Scheduler is a Shiny web application designed to help students (and others) manage deadlines and monitor academic workload over time.
+Group project completed by Yuliya Martyniuk, Zahra Eshtiaghi and Tseeltuul Erdenebat as a final project for the course "Advanced Programming in R" at the University of Warsaw. Personal Scheduler is a Shiny web application designed to help students (and others) manage deadlines and monitor academic workload over time.
 4. [Clustering metrics evaluation on images](https://rpubs.com/Yuliya_Martyniuk/1340798)
 This research evaluates the effectiveness and consistency of three clustering evaluation metrics by applying them to images with distinct visual and structural properties — a complex mural, a photo of pierogi, and a Baltic Sea view — and analyzing both metric results and visual segmentations to identify performance patterns and conditions favoring specific methods.
 5. [Uber trips clustering & time analysis](https://rpubs.com/Yuliya_Martyniuk/1341142)
